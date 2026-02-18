@@ -1,5 +1,10 @@
 # 非エンジニア向け Claude Code 入門 — はじめての Claude Code との協業
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Release](https://img.shields.io/github/v/release/yostos/claude-code-entry?include_prereleases)](https://github.com/yostos/claude-code-entry/releases)
+[![Built with Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-blueviolet)](https://claude.ai/claude-code)
+[![Marp](https://img.shields.io/badge/Slides-Marp-009688)](https://marp.app/)
+
 非エンジニア向けの Claude Code セルフハンズオン資料です。
 
 架空の経営支援サービス会社の社員として、Web サイトリニューアルの提案依頼書（RFP）を Claude Code と一緒に作成します。文書作成の 5 つの工程（構想 → 仕様 → 執筆 → 校正 → リリース）を通じて、エージェント型 AI との協業を体験できます。
